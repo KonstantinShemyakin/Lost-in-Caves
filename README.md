@@ -5,7 +5,7 @@ This game contain only two campaing levels available to play for now.
 
 To launch the game open the .exe file.
 
-#Controls:
+Controls:
 
 left and right arrows - walk;
 
